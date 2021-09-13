@@ -1,0 +1,26 @@
+html{
+    background-color:aqua;
+    scroll-behavior: smooth;
+}
+head
+{
+    font-size: 300px;
+    border-radius: 0%;
+    border-width: 100%;
+    border-style: dashed;
+    border-color:blue;
+}
+.container
+{
+    width:20px;
+    height:15px;
+}
+.contained
+{
+    width:20px;
+    height:15px;
+}
+.container{
+    width: 20px;
+ 
+}
